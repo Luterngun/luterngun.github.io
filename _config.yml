@@ -6,7 +6,7 @@
 name: Luterngun's Blog
 
 # Short bio or description (displayed in the header)
-# description: 
+description: Luterngun 的博客
 
 #
 # Flags below are optional
@@ -40,7 +40,7 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: 
+  github: Luterngun
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
